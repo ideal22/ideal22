@@ -1,22 +1,32 @@
-## 👋 Hi, I'm Nodirbek!
+# 👋 Hi, I'm Nodirbek!  
+🚀 **Senior Full-Stack Developer** | React | Next.js | TypeScript | Node.js  
 
-I'm a **Senior Full-Stack Engineer** with 5 years of experience specializing in **React, TypeScript, Next.js, Redux, Zustand Tailwind CSS, Nodejs, Express, Mongodb, Postgres, Prisma, Supabase**. I help businesses build **high-performance, scalable, and user-friendly web applications**.
+I’m a **highly skilled developer** with 5+ years of experience, specializing in building **scalable, high-performance web applications**. I bring **expertise in both front-end and back-end technologies**, crafting seamless user experiences with **modern, efficient, and secure** solutions.  
 
-### 🚀 **What I Do**
-- **🔹 React, Next.js, TypeScript, Nodejs** – Build fast and scalable full-stack web apps.
-- **🔹 UI/UX Development** – Creating modern, responsive, and accessible designs.
-- **🔹 Performance Optimization** – Improve web speed, SEO, and Lighthouse scores.
-- **🔹 State Management** – Expertise in Redux, RTK Query, and Zustand.
+---
 
-### 🔥 **Featured Projects**
-💡 **[Project Name 1](https://github.com/your-repo)** – A Next.js e-commerce app with authentication, product listings, and cart functionality.  
-💡 **[Project Name 2](https://github.com/your-repo)** – A finance tracker web app for managing expenses and budgeting.  
+## 🔥 **Tech Stack & Skills**
+### 🎨 **Front-End**
+- 🚀 **React, Next.js, TypeScript** – High-performance, scalable UI development  
+- 💅 **Tailwind CSS, ShadCN, Chakra UI** – Modern, responsive, and accessible designs  
+- ⚡ **State Management** – Redux, RTK Query, Zustand, React Query  
+- 🌍 **i18next, Internationalization** – Multi-language app support  
 
-### 📫 **Let's Connect**
-- **💼 Upwork:** [Your Upwork Profile](https://www.upwork.com/freelancers/~yourprofile)  
-- **🌐 Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-- **🐦 Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-- **📩 Email:** your@email.com  
+### 🛠 **Back-End & Databases**
+- 🏗 **Node.js, Express.js, NestJS** – Robust & scalable APIs  
+- 🗄 **PostgreSQL, MongoDB, Prisma, Supabase** – Efficient data management  
+- 🔑 **NextAuth, Clerk** – Secure authentication & authorization  
+- 🚀 **GraphQL, REST APIs, WebSockets** – Efficient data communication  
 
-🔹 *Open to freelance projects & collaborations!*  
+### 🏆 **Performance & Optimization**
+- ⚡ **Code Splitting, Server-Side Rendering (SSR), Static Site Generation (SSG)**  
+- 🔍 **SEO, Lighthouse Optimization, Web Performance Best Practices**  
+
+
+## 📬 **Let's Connect**
+💼 **Upwork:** [Your Upwork Profile](https://www.upwork.com/freelancers/~015ce662d9090a6657)  
+📩 **Email:** eshonkulovnodirbek@gmail.com
+
+💡 *Open to freelance projects & collaborations! Feel free to reach out!*  
+
 
