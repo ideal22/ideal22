@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Nodirbek!
 
-<!--
-**ideal22/ideal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Full-Stack Engineer** with 5 years of experience specializing in **React, TypeScript, Next.js, Redux, Zustand Tailwind CSS, Nodejs, Express, Mongodb, Postgres, Prisma, Supabase**. I help businesses build **high-performance, scalable, and user-friendly web applications**.
 
-Here are some ideas to get you started:
+### 🚀 **What I Do**
+- **🔹 React, Next.js, TypeScript, Nodejs** – Build fast and scalable full-stack web apps.
+- **🔹 UI/UX Development** – Creating modern, responsive, and accessible designs.
+- **🔹 Performance Optimization** – Improve web speed, SEO, and Lighthouse scores.
+- **🔹 State Management** – Expertise in Redux, RTK Query, and Zustand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 **Featured Projects**
+💡 **[Project Name 1](https://github.com/your-repo)** – A Next.js e-commerce app with authentication, product listings, and cart functionality.  
+💡 **[Project Name 2](https://github.com/your-repo)** – A finance tracker web app for managing expenses and budgeting.  
+
+### 📫 **Let's Connect**
+- **💼 Upwork:** [Your Upwork Profile](https://www.upwork.com/freelancers/~yourprofile)  
+- **🌐 Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+- **🐦 Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+- **📩 Email:** your@email.com  
+
+🔹 *Open to freelance projects & collaborations!*  
+
